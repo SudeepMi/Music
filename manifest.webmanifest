@@ -24,7 +24,7 @@
       "short_name": "Play",
       "url": "/",
       "icons": [{ "src": "images/play.png", "sizes": "192x192" }]
-    },
+    }
   ],
-  "description": "A brand new music player",
+  "description": "A brand new music player"
 }
